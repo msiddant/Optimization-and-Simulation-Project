@@ -1,0 +1,953 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: tmp1a8v50i7
+  Lower bound: -12704.0
+  Upper bound: -12704.0
+  Number of objectives: 1
+  Number of constraints: 12233
+  Number of variables: 2630848
+  Number of nonzeros: 4834210
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  User time: 5.0
+  Termination condition: optimal
+  Termination message: MIP - Integer optimal solution\x3a Objective = -1.2704000000e+04
+  Statistics: 
+    Branch and bound: 
+      Number of bounded subproblems: 0
+      Number of created subproblems: 0
+  Error rc: 0
+  Time: 12.329373836517334
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 1
+  number of solutions displayed: 1
+- Gap: 0.0
+  Status: optimal
+  Message: None
+  Objective:
+    obj:
+      Value: -12704
+  Variable:
+    X[4064,48]:
+      Value: 1
+    X[8854,215]:
+      Value: 1
+    X[264,128]:
+      Value: 1
+    X[11095,128]:
+      Value: 1
+    X[7980,210]:
+      Value: 1
+    X[10005,81]:
+      Value: 1
+    X[373,176]:
+      Value: 1
+    X[690,1]:
+      Value: 1
+    X[8134,63]:
+      Value: 1
+    X[7841,81]:
+      Value: 1
+    X[11150,63]:
+      Value: 1
+    X[8223,5]:
+      Value: 1
+    X[11333,63]:
+      Value: 1
+    X[909,2]:
+      Value: 1
+    X[8577,81]:
+      Value: 1
+    X[4047,210]:
+      Value: 1
+    X[8323,81]:
+      Value: 1
+    X[8939,81]:
+      Value: 1
+    X[11048,210]:
+      Value: 1
+    X[1966,148]:
+      Value: 1
+    X[4686,6]:
+      Value: 1
+    X[9246,81]:
+      Value: 1
+    X[2335,1]:
+      Value: 1
+    X[8850,128]:
+      Value: 1
+    X[11735,88]:
+      Value: 1
+    X[1796,210]:
+      Value: 1
+    X[10316,219]:
+      Value: 1
+    X[4503,60]:
+      Value: 1
+    X[268,176]:
+      Value: 1
+    X[10788,211]:
+      Value: 1
+    X[1731,63]:
+      Value: 1
+    X[11995,60]:
+      Value: 1
+    X[2455,50]:
+      Value: 1
+    X[2628,215]:
+      Value: 1
+    X[419,3]:
+      Value: 1
+    X[2731,215]:
+      Value: 1
+    X[11014,148]:
+      Value: 1
+    X[4018,47]:
+      Value: 1
+    X[3489,60]:
+      Value: 1
+    X[2328,48]:
+      Value: 1
+    X[39,60]:
+      Value: 1
+    X[326,2]:
+      Value: 1
+    X[646,47]:
+      Value: 1
+    X[11603,50]:
+      Value: 1
+    X[9840,108]:
+      Value: 1
+    X[318,176]:
+      Value: 1
+    X[5020,215]:
+      Value: 1
+    X[1152,48]:
+      Value: 1
+    X[8534,210]:
+      Value: 1
+    X[323,212]:
+      Value: 1
+    X[3299,47]:
+      Value: 1
+    X[3849,5]:
+      Value: 1
+    X[10552,88]:
+      Value: 1
+    X[9412,81]:
+      Value: 1
+    X[720,210]:
+      Value: 1
+    X[5037,3]:
+      Value: 1
+    X[281,48]:
+      Value: 1
+    X[11045,219]:
+      Value: 1
+    X[4573,6]:
+      Value: 1
+    X[8912,81]:
+      Value: 1
+    X[609,128]:
+      Value: 1
+    X[9439,210]:
+      Value: 1
+    X[9576,5]:
+      Value: 1
+    X[580,148]:
+      Value: 1
+    X[9673,211]:
+      Value: 1
+    X[594,210]:
+      Value: 1
+    X[7505,211]:
+      Value: 1
+    X[1192,5]:
+      Value: 1
+    X[11169,81]:
+      Value: 1
+    X[10899,50]:
+      Value: 1
+    X[9756,212]:
+      Value: 1
+    X[329,47]:
+      Value: 1
+    X[8904,81]:
+      Value: 1
+    X[2408,47]:
+      Value: 1
+    X[4430,81]:
+      Value: 1
+    X[610,128]:
+      Value: 1
+    X[10081,60]:
+      Value: 1
+    X[8149,176]:
+      Value: 1
+    X[424,128]:
+      Value: 1
+    X[3744,176]:
+      Value: 1
+    X[9944,148]:
+      Value: 1
+    X[8002,47]:
+      Value: 1
+    X[2837,1]:
+      Value: 1
+    X[11019,3]:
+      Value: 1
+    X[4082,47]:
+      Value: 1
+    X[5006,212]:
+      Value: 1
+    X[3973,63]:
+      Value: 1
+    X[9813,148]:
+      Value: 1
+    X[7561,6]:
+      Value: 1
+    X[698,63]:
+      Value: 1
+    X[2330,48]:
+      Value: 1
+    X[276,176]:
+      Value: 1
+    X[9812,148]:
+      Value: 1
+    X[4194,63]:
+      Value: 1
+    X[8192,219]:
+      Value: 1
+    X[11632,88]:
+      Value: 1
+    X[10483,215]:
+      Value: 1
+    X[10468,211]:
+      Value: 1
+    X[4989,6]:
+      Value: 1
+    X[1984,1]:
+      Value: 1
+    X[1079,212]:
+      Value: 1
+    X[712,176]:
+      Value: 1
+    X[7914,176]:
+      Value: 1
+    X[8140,63]:
+      Value: 1
+    X[7926,48]:
+      Value: 1
+    X[11029,47]:
+      Value: 1
+    X[10930,60]:
+      Value: 1
+    X[11147,176]:
+      Value: 1
+    X[1353,215]:
+      Value: 1
+    X[10725,60]:
+      Value: 1
+    X[2446,211]:
+      Value: 1
+    X[8222,60]:
+      Value: 1
+    X[3753,212]:
+      Value: 1
+    X[827,210]:
+      Value: 1
+    X[9625,60]:
+      Value: 1
+    X[9004,108]:
+      Value: 1
+    X[11924,50]:
+      Value: 1
+    X[492,148]:
+      Value: 1
+    X[9138,128]:
+      Value: 1
+    X[906,128]:
+      Value: 1
+    X[3899,63]:
+      Value: 1
+    X[8195,211]:
+      Value: 1
+    X[695,128]:
+      Value: 1
+    X[9367,108]:
+      Value: 1
+    X[8144,47]:
+      Value: 1
+    X[3925,63]:
+      Value: 1
+    X[11196,212]:
+      Value: 1
+    X[7879,6]:
+      Value: 1
+    X[10144,215]:
+      Value: 1
+    X[1993,63]:
+      Value: 1
+    X[9677,81]:
+      Value: 1
+    X[2381,63]:
+      Value: 1
+    X[10832,148]:
+      Value: 1
+    X[7859,88]:
+      Value: 1
+    X[9029,219]:
+      Value: 1
+    X[11582,219]:
+      Value: 1
+    X[10643,88]:
+      Value: 1
+    X[7865,3]:
+      Value: 1
+    X[644,3]:
+      Value: 1
+    X[8260,5]:
+      Value: 1
+    X[10750,211]:
+      Value: 1
+    X[3356,47]:
+      Value: 1
+    X[8137,6]:
+      Value: 1
+    X[186,60]:
+      Value: 1
+    X[330,212]:
+      Value: 1
+    X[7960,63]:
+      Value: 1
+    X[7889,176]:
+      Value: 1
+    X[8262,215]:
+      Value: 1
+    X[7810,47]:
+      Value: 1
+    X[10582,88]:
+      Value: 1
+    X[1331,47]:
+      Value: 1
+    X[8652,63]:
+      Value: 1
+    X[2371,60]:
+      Value: 1
+    X[8691,215]:
+      Value: 1
+    X[7733,108]:
+      Value: 1
+    X[10082,219]:
+      Value: 1
+    X[11171,128]:
+      Value: 1
+    X[10691,211]:
+      Value: 1
+    X[7912,211]:
+      Value: 1
+    X[4572,219]:
+      Value: 1
+    X[9573,219]:
+      Value: 1
+    X[8621,81]:
+      Value: 1
+    X[12001,148]:
+      Value: 1
+    X[8208,211]:
+      Value: 1
+    X[875,3]:
+      Value: 1
+    X[9647,211]:
+      Value: 1
+    X[1352,3]:
+      Value: 1
+    X[2002,219]:
+      Value: 1
+    X[171,6]:
+      Value: 1
+    X[437,210]:
+      Value: 1
+    X[3503,81]:
+      Value: 1
+    X[443,63]:
+      Value: 1
+    X[3355,47]:
+      Value: 1
+    X[983,148]:
+      Value: 1
+    X[10121,81]:
+      Value: 1
+    X[431,176]:
+      Value: 1
+    X[4542,50]:
+      Value: 1
+    X[1022,212]:
+      Value: 1
+    X[692,176]:
+      Value: 1
+    X[7858,108]:
+      Value: 1
+    X[6452,47]:
+      Value: 1
+    X[8945,108]:
+      Value: 1
+    X[10600,211]:
+      Value: 1
+    X[2834,60]:
+      Value: 1
+    X[9231,210]:
+      Value: 1
+    X[697,6]:
+      Value: 1
+    X[461,47]:
+      Value: 1
+    X[273,48]:
+      Value: 1
+    X[9577,47]:
+      Value: 1
+    X[11555,50]:
+      Value: 1
+    X[5044,215]:
+      Value: 1
+    X[9163,219]:
+      Value: 1
+    X[10732,50]:
+      Value: 1
+    X[5035,6]:
+      Value: 1
+    X[2407,48]:
+      Value: 1
+    X[992,211]:
+      Value: 1
+    X[9176,63]:
+      Value: 1
+    X[7613,6]:
+      Value: 1
+    X[660,63]:
+      Value: 1
+    X[11081,47]:
+      Value: 1
+    X[5102,60]:
+      Value: 1
+    X[11402,63]:
+      Value: 1
+    X[8119,2]:
+      Value: 1
+    X[11006,81]:
+      Value: 1
+    X[10766,50]:
+      Value: 1
+    X[2456,47]:
+      Value: 1
+    X[5059,215]:
+      Value: 1
+    X[8130,148]:
+      Value: 1
+    X[7834,6]:
+      Value: 1
+    X[9517,212]:
+      Value: 1
+    X[358,210]:
+      Value: 1
+    X[10581,88]:
+      Value: 1
+    X[10636,50]:
+      Value: 1
+    X[532,47]:
+      Value: 1
+    X[937,47]:
+      Value: 1
+    X[10973,212]:
+      Value: 1
+    X[975,148]:
+      Value: 1
+    X[2329,128]:
+      Value: 1
+    X[841,3]:
+      Value: 1
+    X[11349,63]:
+      Value: 1
+    X[10804,212]:
+      Value: 1
+    X[682,63]:
+      Value: 1
+    X[4621,6]:
+      Value: 1
+    X[8611,2]:
+      Value: 1
+    X[3484,60]:
+      Value: 1
+    X[920,210]:
+      Value: 1
+    X[10399,81]:
+      Value: 1
+    X[433,63]:
+      Value: 1
+    X[9511,219]:
+      Value: 1
+    X[9607,212]:
+      Value: 1
+    X[11157,47]:
+      Value: 1
+    X[11383,48]:
+      Value: 1
+    X[3979,48]:
+      Value: 1
+    X[744,176]:
+      Value: 1
+    X[676,48]:
+      Value: 1
+    X[7571,6]:
+      Value: 1
+    X[4513,60]:
+      Value: 1
+    X[4204,48]:
+      Value: 1
+    X[11419,176]:
+      Value: 1
+    X[1653,3]:
+      Value: 1
+    X[109,81]:
+      Value: 1
+    X[487,49]:
+      Value: 1
+    X[9744,81]:
+      Value: 1
+    X[9760,81]:
+      Value: 1
+    X[9733,81]:
+      Value: 1
+    X[182,81]:
+      Value: 1
+    X[8970,108]:
+      Value: 1
+    X[8249,81]:
+      Value: 1
+    X[7977,63]:
+      Value: 1
+    X[8539,215]:
+      Value: 1
+    X[9207,81]:
+      Value: 1
+    X[11270,47]:
+      Value: 1
+    X[9624,6]:
+      Value: 1
+    X[8152,212]:
+      Value: 1
+    X[4133,128]:
+      Value: 1
+    X[963,49]:
+      Value: 1
+    X[1712,212]:
+      Value: 1
+    X[9837,148]:
+      Value: 1
+    X[9570,176]:
+      Value: 1
+    X[8991,63]:
+      Value: 1
+    X[8992,210]:
+      Value: 1
+    X[145,49]:
+      Value: 1
+    X[3505,5]:
+      Value: 1
+    X[10720,88]:
+      Value: 1
+    X[327,128]:
+      Value: 1
+    X[418,3]:
+      Value: 1
+    X[527,63]:
+      Value: 1
+    X[87,81]:
+      Value: 1
+    X[8490,63]:
+      Value: 1
+    X[9653,50]:
+      Value: 1
+    X[1262,148]:
+      Value: 1
+    X[7982,219]:
+      Value: 1
+    X[372,5]:
+      Value: 1
+    X[1018,148]:
+      Value: 1
+    X[571,5]:
+      Value: 1
+    X[9646,50]:
+      Value: 1
+    X[590,49]:
+      Value: 1
+    X[10151,148]:
+      Value: 1
+    X[8185,81]:
+      Value: 1
+    X[8274,63]:
+      Value: 1
+    X[11002,148]:
+      Value: 1
+    X[526,5]:
+      Value: 1
+    X[9623,6]:
+      Value: 1
+    X[10522,88]:
+      Value: 1
+    X[10139,60]:
+      Value: 1
+    X[9792,219]:
+      Value: 1
+    X[4504,60]:
+      Value: 1
+    X[10470,215]:
+      Value: 1
+    X[5005,176]:
+      Value: 1
+    X[9699,211]:
+      Value: 1
+    X[907,81]:
+      Value: 1
+    X[8973,60]:
+      Value: 1
+    X[11732,63]:
+      Value: 1
+    X[800,48]:
+      Value: 1
+    X[9958,212]:
+      Value: 1
+    X[11559,176]:
+      Value: 1
+    X[10520,88]:
+      Value: 1
+    X[8066,211]:
+      Value: 1
+    X[9265,210]:
+      Value: 1
+    X[9814,47]:
+      Value: 1
+    X[9574,48]:
+      Value: 1
+    X[7836,81]:
+      Value: 1
+    X[7935,212]:
+      Value: 1
+    X[8654,210]:
+      Value: 1
+    X[422,5]:
+      Value: 1
+    X[650,49]:
+      Value: 1
+    X[708,48]:
+      Value: 1
+    X[10424,108]:
+      Value: 1
+    X[488,63]:
+      Value: 1
+    X[4058,210]:
+      Value: 1
+    X[1979,63]:
+      Value: 1
+    X[1334,48]:
+      Value: 1
+    X[7971,148]:
+      Value: 1
+    X[9368,81]:
+      Value: 1
+    X[9251,210]:
+      Value: 1
+    X[7813,50]:
+      Value: 1
+    X[722,128]:
+      Value: 1
+    X[10936,6]:
+      Value: 1
+    X[7993,47]:
+      Value: 1
+    X[584,47]:
+      Value: 1
+    X[10779,148]:
+      Value: 1
+    X[425,176]:
+      Value: 1
+    X[8242,5]:
+      Value: 1
+    X[11131,211]:
+      Value: 1
+    X[11151,63]:
+      Value: 1
+    X[8188,47]:
+      Value: 1
+    X[42,219]:
+      Value: 1
+    X[10080,215]:
+      Value: 1
+    X[8258,60]:
+      Value: 1
+    X[9230,219]:
+      Value: 1
+    X[7233,47]:
+      Value: 1
+    X[135,219]:
+      Value: 1
+    X[4534,6]:
+      Value: 1
+    X[6440,47]:
+      Value: 1
+    X[7866,63]:
+      Value: 1
+    X[7767,50]:
+      Value: 1
+    X[8053,210]:
+      Value: 1
+    X[3365,219]:
+      Value: 1
+    X[495,47]:
+      Value: 1
+    X[5083,6]:
+      Value: 1
+    X[9681,81]:
+      Value: 1
+    X[5032,210]:
+      Value: 1
+    X[7998,176]:
+      Value: 1
+    X[1057,148]:
+      Value: 1
+    X[9447,219]:
+      Value: 1
+    X[2294,211]:
+      Value: 1
+    X[10672,88]:
+      Value: 1
+    X[9276,60]:
+      Value: 1
+    X[10815,60]:
+      Value: 1
+    X[10927,212]:
+      Value: 1
+    X[11653,48]:
+      Value: 1
+    X[9745,5]:
+      Value: 1
+    X[503,3]:
+      Value: 1
+    X[9815,148]:
+      Value: 1
+    X[886,63]:
+      Value: 1
+    X[10792,50]:
+      Value: 1
+    X[11148,60]:
+      Value: 1
+    X[10321,6]:
+      Value: 1
+    X[3789,176]:
+      Value: 1
+    X[9175,81]:
+      Value: 1
+    X[6817,215]:
+      Value: 1
+    X[8968,108]:
+      Value: 1
+    X[9385,219]:
+      Value: 1
+    X[1800,47]:
+      Value: 1
+    X[8811,210]:
+      Value: 1
+    X[7924,219]:
+      Value: 1
+    X[9194,81]:
+      Value: 1
+    X[10730,211]:
+      Value: 1
+    X[2836,63]:
+      Value: 1
+    X[11146,211]:
+      Value: 1
+    X[5051,215]:
+      Value: 1
+    X[8292,81]:
+      Value: 1
+    X[9838,148]:
+      Value: 1
+    X[11016,47]:
+      Value: 1
+    X[626,5]:
+      Value: 1
+    X[2311,212]:
+      Value: 1
+    X[5010,6]:
+      Value: 1
+    X[9386,81]:
+      Value: 1
+    X[11380,176]:
+      Value: 1
+    X[8972,128]:
+      Value: 1
+    X[9133,108]:
+      Value: 1
+    X[9425,108]:
+      Value: 1
+    X[8613,2]:
+      Value: 1
+    X[11395,48]:
+      Value: 1
+    X[115,211]:
+      Value: 1
+    X[4042,63]:
+      Value: 1
+    X[354,215]:
+      Value: 1
+    X[9334,88]:
+      Value: 1
+    X[671,48]:
+      Value: 1
+    X[9571,210]:
+      Value: 1
+    X[5096,60]:
+      Value: 1
+    X[9043,81]:
+      Value: 1
+    X[9975,88]:
+      Value: 1
+    X[7712,6]:
+      Value: 1
+    X[8876,81]:
+      Value: 1
+    X[459,47]:
+      Value: 1
+    X[4802,219]:
+      Value: 1
+    X[1124,47]:
+      Value: 1
+    X[11576,50]:
+      Value: 1
+    X[7886,211]:
+      Value: 1
+    X[6583,128]:
+      Value: 1
+    X[1448,1]:
+      Value: 1
+    X[4669,6]:
+      Value: 1
+    X[637,210]:
+      Value: 1
+    X[10593,88]:
+      Value: 1
+    X[10822,211]:
+      Value: 1
+    X[10106,108]:
+      Value: 1
+    X[444,148]:
+      Value: 1
+    X[10258,60]:
+      Value: 1
+    X[9157,219]:
+      Value: 1
+    X[447,47]:
+      Value: 1
+    X[386,176]:
+      Value: 1
+    X[874,210]:
+      Value: 1
+    X[10793,81]:
+      Value: 1
+    X[2298,211]:
+      Value: 1
+    X[4180,3]:
+      Value: 1
+    X[511,148]:
+      Value: 1
+    X[574,63]:
+      Value: 1
+    X[11111,3]:
+      Value: 1
+    X[5082,176]:
+      Value: 1
+    X[4186,148]:
+      Value: 1
+    X[8713,48]:
+      Value: 1
+    X[1258,3]:
+      Value: 1
+    X[384,212]:
+      Value: 1
+    X[1799,176]:
+      Value: 1
+    X[4155,176]:
+      Value: 1
+    X[10414,108]:
+      Value: 1
+    X[9521,212]:
+      Value: 1
+    X[11581,63]:
+      Value: 1
+    X[9095,63]:
+      Value: 1
+    X[3653,176]:
+      Value: 1
+    X[9333,60]:
+      Value: 1
+    X[533,3]:
+      Value: 1
+    X[10153,215]:
+      Value: 1
+    X[9025,81]:
+      Value: 1
+    X[7632,60]:
+      Value: 1
+    X[8440,49]:
+      Value: 1
+    X[9848,148]:
+      Value: 1
+    X[10463,215]:
+      Value: 1
+    X[3361,108]:
+      Value: 1
+    X[11377,148]:
+      Value: 1
+    X[141,81]:
+      Value: 1
+    X[3967,63]:
+      Value: 1
+    X[10164,212]:
+      Value: 1
+    X[576,47]:
+      Value: 1
+    X[11177,63]:
+      Value: 1
+    X[616,63]:
+      Value: 1
+    X[11428,63]:
+      Value: 1
+    X[11422,176]:
+      Value: 1
+    X[5030,176]:
+      Value: 1
+    X[10771,50]:
+      Value: 1
+    X[9762,81]:
+      Value: 1
+    X[9462,63]:
+      Value: 1
+    X[11988,108]:
+      Value: 1
+    X[11068,148]:
+      Value: 1
+  Constraint: No values
